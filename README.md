@@ -44,15 +44,8 @@ A saída será assim:
 
 ```c
 //Exemplo de saída
-╔═════════════════╗
-║ CADASTRO        ║
-║  » Cadastrar    ║
-║  · Localizar    ║
-║  · Alterar      ║
-║  · Excluir      ║
-║  · Sair         ║
-╚═════════════════╝
 ```
+<img src="https://user-images.githubusercontent.com/53452408/97788787-49ae3800-1b9a-11eb-860f-c9de90556dd6.png" width="500" title="Exemplo de saída" alt="Exemplo de saída">
 
 ## Função gerarMenu
 
