@@ -6,7 +6,7 @@ As opções são selecionáveis pelo teclado usando as setas e o enter!
 
 ## Como usar o gerador
 
-1. Coloque os arquivos `console.h` e `gerador-menus.h` na pasta do projeto.
+1. Coloque os arquivos [`console.h`](https://github.com/DavidGomesh/console-h) e `gerador-menus.h` na pasta do projeto.
 2. Faça a inclusão da biblioteca `gerador-menus.h` no projeto.
 
 ```c
