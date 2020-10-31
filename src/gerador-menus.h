@@ -146,7 +146,7 @@ int gerarMenu(char titulo[], int quant, ...){
             maiorTam=tamAtual;
         }
 
-        printf("   %c %s\n", 250, opcao, maiorTam);
+        printf("   %c %s\n", 250, opcao);
     }
 
     va_end(opcoes);
