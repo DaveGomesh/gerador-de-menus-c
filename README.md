@@ -81,7 +81,7 @@ Por fim, passamos cada opção que o menu terá.
 ## Observações
 
 - O menu pode ter mais de ***4 bilhões de opções***;
-  - Para ser mais exato: **4.294.967.296 (4 bilhões, 294 milhões, 967 mil, 296)**;
+  - Para ser mais exato: **4.294.967.296 (4 bilhões, 294 milhões, 967 mil, 296 opções)**;
   - Ou ***2 elevado a 32***.
 - O máximo opções testadas foram **30 mil opções**.
 - O máximo opções testadas sem causar erros na interface foram **8.897 opções**.
